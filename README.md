@@ -1,5 +1,7 @@
 # Mishnah Align
 
+Part of the [Digital Mishnah project](https://github.com/umd-mith/mishnah).
+
 A simple nodejs script to convert Mishnah-Tosefta alignment data from csv to standoff TEI 
 
 ## How to use
