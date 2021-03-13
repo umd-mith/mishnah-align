@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^12.2.0",
-    "xmldom": "^0.1.27"
+    "xmldom": "^0.5.0"
   },
   "devDependencies": {
     "csv-parse": "^4.4.3",
